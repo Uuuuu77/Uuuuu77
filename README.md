@@ -1,7 +1,7 @@
 # Hi, I’m John Njuguna 👋 @JohnNjuguna
 
 - 🧭 Based in Nairobi — builder, tinkerer, and lifelong learner.  
-- 💼 Background: software engineer with open-source contributions (Exercism) and two years building product prototypes and developer tools.  
+- 💼 Background: software engineer with open-source contributions and two years building product prototypes and developer tools.  
 - 🛠️ Tech interests: AI, ML, cloud, blockchain, DePIN, and developer APIs.  
 - 💻 Languages & tools (currently): C, Python, Shell scripting, Django, Pandas, Solidity (prototyping), Node.js.  
 - 🌱 Learning now: full-stack web development, systems design, secure smart contracts, and production-grade infra (Kubernetes / Terraform).  
@@ -17,7 +17,7 @@
 
 ### Quick links
 - Whitepaper & work-in-progress: (Coming Soon)  
-- Twitter / X: [@CoinByte](https://x.com/JohnM_77)  
+- Twitter / X: [@John Njuguna](https://x.com/JohnM_77)  
 - Ethereum ENS: `byt.eth`(Coming Soon)
 
 ---
