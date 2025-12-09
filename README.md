@@ -1,4 +1,4 @@
-# Hi, I’m John Njuguna 👋 @JohnNjuguna
+# Hi, I’m John Njuguna 👋 @JohnM_77
 
 - 🧭 Based in Nairobi — builder, tinkerer, and lifelong learner.  
 - 💼 Background: software engineer with open-source contributions and two years building product prototypes and developer tools.  
@@ -17,7 +17,7 @@
 
 ### Quick links
 - Whitepaper & work-in-progress: (Coming Soon)  
-- Twitter / X: [@John Njuguna](https://x.com/JohnM_77)  
+- Twitter / X: [@JohnM_77](https://x.com/JohnM_77)  
 - Ethereum ENS: `byt.eth`(Coming Soon)
 
 ---
