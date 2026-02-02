@@ -1,7 +1,7 @@
 # Hi, I’m John Njuguna 👋 @JohnM_77
 
 - 🧭 Based in Nairobi — builder, tinkerer, and lifelong learner.  
-- 💼 Background: software engineer with open-source contributions and two years building product prototypes and developer tools.  
+- 💼 Background: software engineer with open-source contributions and three years building product prototypes and developer tools.  
 - 🛠️ Tech interests: AI, ML, cloud, blockchain, DePIN, and developer APIs.  
 - 💻 Languages & tools (currently): C, Python, Shell scripting, Django, Pandas, Solidity (prototyping), Node.js.  
 - 🌱 Learning now: full-stack web development, systems design, secure smart contracts, and production-grade infra (Kubernetes / Terraform).  
